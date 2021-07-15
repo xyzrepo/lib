@@ -1,7 +1,7 @@
 {
   "name": "@xyz/lib",
   "description": "Utility Functions Library for JavaScript",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "build": "rollup -c",
